@@ -1,2 +1,2 @@
 # MGD
-Masked Generative Distillation
+Paper: Masked Generative Distillation (coming soon)

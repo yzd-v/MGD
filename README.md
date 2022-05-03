@@ -1,0 +1,2 @@
+# MGD
+Masked Generative Distillation

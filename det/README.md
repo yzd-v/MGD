@@ -37,7 +37,7 @@ bash tools/dist_test.sh configs/retinanet/retinanet_r50_fpn_2x_coco.py $new_mmde
 ## Results
 |    Model    |  Backbone  | Baseline(mAP) | +MGD(mAP) |                            config                            |                          log                          | weight |
 | :---------: | :--------: | :-----------: | :-------: | :----------------------------------------------------------: | :------------------------------------------------------: | :--: |
-|  RetinaNet  | ResNet-50  |     37.4      |   41.0    | [config](https://github.com/open-mmlab/mmdetection/tree/master/configs/retinanet/retinanet_r50_fpn_2x_coco.py) | [baidu](https://pan.baidu.com/s/1sBxgi110KtZLSB8NDr7G-g?pwd=n83s) | [weight](https://pan.baidu.com/s/1Bqv2XNa_TAGZJFUd177WWA?pwd=gu2x) |
+|  RetinaNet  | ResNet-50  |     37.4      |   41.0    | [config](https://github.com/open-mmlab/mmdetection/tree/master/configs/retinanet/retinanet_r50_fpn_2x_coco.py) | [baidu](https://pan.baidu.com/s/1sBxgi110KtZLSB8NDr7G-g?pwd=n83s) | [baidu](https://pan.baidu.com/s/1Bqv2XNa_TAGZJFUd177WWA?pwd=gu2x) |
 | Faster RCNN | ResNet-50  |     38.4      |   42.1    | [config](https://github.com/open-mmlab/mmdetection/tree/master/configs/faster_rcnn/faster_rcnn_r50_fpn_2x_coco.py) | [baidu](https://pan.baidu.com/s/1xrLcE2e9e5qT1nomX4TqTg?pwd=aheq) | [baidu](https://pan.baidu.com/s/1vuZuq06wg3X9SJPNWQSgrw?pwd=2x8z) |
 |  RepPoints  | ResNet-50  |     38.6      |   42.3    | [config](https://github.com/open-mmlab/mmdetection/tree/master/configs/reppoints/reppoints_moment_r50_fpn_gn-neck+head_2x_coco.py) | [baidu](https://pan.baidu.com/s/103unzbTgqjIBdYzH8zliEg?pwd=aucd) | [baidu](https://pan.baidu.com/s/1HfqvLoMU57y9NXPq5TNhow?pwd=g79p) |
 

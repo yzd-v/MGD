@@ -1,6 +1,7 @@
 # MGD
 Paper: [Masked Generative Distillation](https://arxiv.org/abs/2205.01529)
-![architecture](architecture.pdf)
+
+![architecture](architecture.png)
 ## Image Classification 
 Please refer [image classification](https://github.com/yzd-v/MGD/tree/master/cls)
 ## Object Classification 

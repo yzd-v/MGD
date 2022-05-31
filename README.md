@@ -1,5 +1,6 @@
 # MGD
 Paper: [Masked Generative Distillation](https://arxiv.org/abs/2205.01529)
+![architecture](architecture.pdf)
 ## Image Classification 
 Please refer [image classification](https://github.com/yzd-v/MGD/tree/master/cls)
 ## Object Classification 
@@ -15,4 +16,4 @@ Please refer [semantic segmentation](https://github.com/yzd-v/MGD/tree/master/se
   journal={arXiv preprint arXiv:2205.01529},
   year={2022}
 }
-```
+``` 

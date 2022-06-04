@@ -1,7 +1,7 @@
 # Object Detection
 ## Install
   - Our codes are based on [MMDetection](https://github.com/open-mmlab/mmdetection). Please follow the installation of MMDetection and make sure you can run it successfully.
-  - This repo uses mmcv-full==1.3.17 and mmdet==2.17.0
+  - This repo uses mmcv-full==1.3.17 and mmdet==2.19.0
   - If you want to use lower mmcv-full version, you may have to change the optimizer in apis/train.py and build_distiller in tools/train.py.
   - For lower mmcv-full, you may refer [FGD](https://github.com/yzd-v/FGD) to change model.init_weights() in [train.py](https://github.com/yzd-v/MGD/tree/master/det/tools/train.py) and self.student.init_weights() in [distiller.py](https://github.com/yzd-v/MGD/tree/master/det/mmdet/distillation/distillers/detection_distiller.py).
 ## Add and Replace the codes

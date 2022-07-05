@@ -1,5 +1,5 @@
 # MGD
-Paper: [Masked Generative Distillation](https://arxiv.org/abs/2205.01529)
+ECCV 2022 Paper: [Masked Generative Distillation](https://arxiv.org/abs/2205.01529)
 
 ![architecture](architecture.png)
 ## Image Classification 

@@ -6,7 +6,7 @@ from ..builder import DISTILL_LOSSES
 @DISTILL_LOSSES.register_module()
 class MGDLoss(nn.Module):
 
-    """PyTorch version of `Feature Distillation for General Detectors`
+    """PyTorch version of `Masked Generative Distillation`
    
     Args:
         student_channels(int): Number of channels in the student's feature map.

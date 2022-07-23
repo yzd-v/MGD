@@ -37,8 +37,8 @@ bash tools/dist_test.sh configs/pspnet/pspnet_r18-d8_512x512_40k_cityscapes.py $
 ## Results
 |  Model   | Backbone  | Baseline(mIoU) | +MGD(mIoU) |                            config                            |                          log                          | weight |
 | :------: | :-------: | :----------------: | :------------: | :----------------------------------------------------------: | :------------------------------------------------------: | :--: |
-|   PspNet   | ResNet-18 |        69.85        |      73.63      | [config](https://github.com/open-mmlab/mmdetection/blob/master/configs/solo/solo_r50_fpn_1x_coco.py) | [baidu](https://pan.baidu.com/s/15mLdMez1yf4-lrR0u5XUag?pwd=7vqd) | [baidu](https://pan.baidu.com/s/1a2DgN70r-jxl4bpC07NXQQ?pwd=u5ii) |
-| DeepLabV3 | ResNet-18 |        73.20        |      76.31      | [config](https://github.com/open-mmlab/mmdetection/tree/master/configs/mask_rcnn/mask_rcnn_r50_fpn_2x_coco.py) | [baidu](https://pan.baidu.com/s/1xSXxQuIJ52ZihP0g3-0_pw?pwd=h9aw) | [baidu](https://pan.baidu.com/s/1Q8fOKhJWTHOSaEQVIIg4aw?pwd=1m9s) |
+|   PspNet   | ResNet-18 |        69.85        |      73.63      | [config](https://github.com/yzd-v/MGD/tree/master/seg/configs/pspnet/pspnet_r18-d8_512x512_40k_cityscapes.py) | [baidu](https://pan.baidu.com/s/15mLdMez1yf4-lrR0u5XUag?pwd=7vqd) | [baidu](https://pan.baidu.com/s/1a2DgN70r-jxl4bpC07NXQQ?pwd=u5ii) |
+| DeepLabV3 | ResNet-18 |        73.20        |      76.31      | [config](https://github.com/yzd-v/MGD/tree/master/seg/configs/deeplabv3/deeplabv3_r18-d8_512x512_40k_cityscapes.py) | [baidu](https://pan.baidu.com/s/1xSXxQuIJ52ZihP0g3-0_pw?pwd=h9aw) | [baidu](https://pan.baidu.com/s/1Q8fOKhJWTHOSaEQVIIg4aw?pwd=1m9s) |
 
 ## Citation
 ```

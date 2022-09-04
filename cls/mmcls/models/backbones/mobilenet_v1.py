@@ -51,6 +51,7 @@ class MobileNetV1(BaseBackbone):
         )
 
     def forward(self, x):
+        outs = []
         x = self.model(x)
-
-        return x
+        outs.append(x)
+        return tuple(outs)

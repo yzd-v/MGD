@@ -151,6 +151,9 @@ def main():
     cfg.seed = seed
     meta['seed'] = seed
 
+    """
+    change the code for distillation
+    """
     distiller_cfg = cfg.get('distiller',None)
     if distiller_cfg is None:
         model = build_classifier(cfg.model)
